@@ -2,7 +2,6 @@
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/linustech/i))
 www.youtube.com###content-section:has-text(/Linus Tech Tips/i)
 www.youtube.com###dismissible:has(#text:has-text(/Linus Tech Tips/i))
-##[page-subtype="channels"]:has-text(/linustechtips/i)
 www.youtube.com###content-section:has-text(/ShortCircuit/i)
 www.youtube.com###dismissible:has(#text:has-text(/ShortCircuit/i))
 ##[page-subtype="channels"]:has-text(/ShortCircuit/i)
