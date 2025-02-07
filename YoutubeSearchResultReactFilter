@@ -10,6 +10,8 @@ www.youtube.com###dismissible:has(#text:has-text(/Reacts/i))
 www.youtube.com###dismissible:has(#text:has-text(/Reaction/i))
 www.youtube.com###dismissible:has(#text:has-text(/Reactions/i))
 ! Channels
+www.youtube.com###dismissible:has(#text:has-text(/Purple Coin/i))
+www.youtube.com###dismissible:has(#text:has-text(/Anime Bosco/i))
 www.youtube.com###dismissible:has(#text:has-text(/APENLIVE/i))
 www.youtube.com###dismissible:has(#text:has-text(/Under The Influence/i))
 www.youtube.com###dismissible:has(#text:has-text(/SwoleBenji/i))
