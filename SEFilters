@@ -1,0 +1,6 @@
+! Removes Fextralife from google searches
+google.com##a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div)
+google.ca##a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div)
+google.co.jp##a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com.tw##a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div)
+google.co.kr##a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div)
