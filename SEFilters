@@ -1,9 +1,9 @@
 ! Removes from google 'All' searches
-google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
-google.ca##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
-google.co.jp##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
-google.co.kr##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
-google.com.tw##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
+google.ca##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
+google.co.jp##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
+google.co.kr##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
+google.com.tw##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div)
 ! Removes from google 'Images' searches
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
 google.ca##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
