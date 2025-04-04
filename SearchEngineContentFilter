@@ -5,6 +5,7 @@ google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-as
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='mmobyte']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='StixAndMrsStix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='stixandmrsstix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='UCLGRZ0xSaBMIUmtn8wkPP3w']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='UCLGRZ0xSaBMIUmtn8wkPP3w']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Brittany_Venti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
@@ -16,6 +17,10 @@ google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-as
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='LinusTechTips']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='lttstore']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='linusmediagroup']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='em8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='em8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Em_8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='emberthegame']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 
 ! Removes from google 'Images' searches
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='acvalens']:upward(div):upward(div)
@@ -30,3 +35,5 @@ google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='brittanyventi']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='saturday_supermodel']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='linustechtips']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='em8er']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='em8er']:upward(div):upward(div)
