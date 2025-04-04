@@ -8,3 +8,4 @@ www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/cooksux/i))
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/joeykaotyk/i))
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/xqc/i))
+www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/stixandmrsstix/i))
