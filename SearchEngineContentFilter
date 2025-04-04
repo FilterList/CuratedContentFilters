@@ -12,6 +12,10 @@ google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-as
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyXVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='brittanyxventi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='saturday_supermodel']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='linustechtips']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='LinusTechTips']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='lttstore']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='linusmediagroup']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 
 ! Removes from google 'Images' searches
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='acvalens']:upward(div):upward(div)
@@ -25,3 +29,4 @@ google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='brittanyxventi']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='brittanyventi']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='saturday_supermodel']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='linustechtips']:upward(div):upward(div)
