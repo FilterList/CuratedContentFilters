@@ -1,12 +1,18 @@
 ! Removes from google 'All' searches
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
-google.ca##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
-google.co.jp##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
-google.co.kr##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
-google.com.tw##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='UCLGRZ0xSaBMIUmtn8wkPP3w']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Brittany_Venti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='brittanyventi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyXVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='brittanyxventi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='saturday_supermodel']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
 ! Removes from google 'Images' searches
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
-google.ca##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
-google.co.jp##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
-google.co.kr##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
-google.com.tw##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='fextralife']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='Brittany_Venti']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='BrittanyVenti']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='brittanyxventi']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='brittanyventi']:upward(div):upward(div)
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='saturday_supermodel']:upward(div):upward(div)
