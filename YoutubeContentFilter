@@ -1,0 +1,97 @@
+www.youtube.com###content-section:has-text(/ASMRAnaValens/i)
+www.youtube.com###dismissible:has(#text:has-text(/ASMRAnaValens/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/ASMRAnaValens/i)
+
+www.youtube.com###content-section:has-text(/acarchive/i)
+www.youtube.com###dismissible:has(#text:has-text(/acarchive/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/acarchive/i)
+
+www.youtube.com###content-section:has-text(/BrittanyVenti/i)
+www.youtube.com###dismissible:has(#text:has-text(/Brittany Venti/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/BrittanyVenti/i)
+
+www.youtube.com###content-section:has-text(/SaturdaySupermodel/i)
+www.youtube.com###dismissible:has(#text:has-text(/SaturdaySupermodel/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/SaturdaySupermodel/i)
+
+www.youtube.com###content-section:has-text(/MMOByte/i)
+www.youtube.com###dismissible:has(#text:has-text(/MMOByte/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/MMOByte/i)
+
+www.youtube.com###content-section:has-text(/Linus Tech Tips/i)
+www.youtube.com###dismissible:has(#text:has-text(/Linus Tech Tips/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/Linus Tech Tips/i)
+
+www.youtube.com###content-section:has-text(/ShortCircuit/i)
+www.youtube.com###dismissible:has(#text:has-text(/ShortCircuit/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/ShortCircuit/i)
+
+www.youtube.com###content-section:has-text(/Techquickie/i)
+www.youtube.com###dismissible:has(#text:has-text(/Techquickie/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/Techquickie/i)
+
+www.youtube.com###content-section:has-text(/TechLinked/i)
+www.youtube.com###dismissible:has(#text:has-text(/TechLinked/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/TechLinked/i)
+
+www.youtube.com###content-section:has-text(/GameLinked/i)
+www.youtube.com###dismissible:has(#text:has-text(/GameLinked/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/GameLinked/i)
+
+www.youtube.com###content-section:has-text(/Mac Address/i)
+www.youtube.com###dismissible:has(#text:has-text(/Mac Address/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/Mac Address/i)
+
+www.youtube.com###content-section:has-text(/LMG Clips/i)
+www.youtube.com###dismissible:has(#text:has-text(/LMG Clips/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/LMG Clips/i)
+
+www.youtube.com###content-section:has-text(/Channel Super Fun/i)
+www.youtube.com###dismissible:has(#text:has-text(/Channel Super Fun/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/Channel Super Fun/i)
+
+www.youtube.com###content-section:has-text(/Coding With Strangers/i)
+www.youtube.com###dismissible:has(#text:has-text(/Coding With Strangers/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/Coding With Strangers/i)
+
+www.youtube.com###content-section:has-text(/39daph/i)
+www.youtube.com###dismissible:has(#text:has-text(/39daph/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/39daph/i)
+
+www.youtube.com###content-section:has-text(/sunkenjivt/i)
+www.youtube.com###dismissible:has(#text:has-text(/sunkenjivt/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/sunkenjivt/i)
+
+www.youtube.com###dismissible:has(#text:has-text(/AsianGuyStream/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/AsianGuyStream/i)
+www.youtube.com##[page-subtype="channels"]:has-text(/AsianGuyStream/i)
+
+www.youtube.com###content-section:has-text(/TheLazyPeon/i)
+www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/TheLazyPeon/i)
+
+www.youtube.com###content-section:has-text(/asmongold/i)
+www.youtube.com###dismissible:has(#text:has-text(/asmongold/i))
+
+www.youtube.com###dismissible:has(#text:has-text(/Law Understood Simply/i))
+www.youtube.com###dismissible:has(#text:has-text(/Depressed Nousagi/i))
+www.youtube.com###dismissible:has(#text:has-text(/BeelzFlyLord/i))
+www.youtube.com###dismissible:has(#text:has-text(/Beelz FlyLord/i))
+www.youtube.com###dismissible:has(#text:has-text(/Saincisco/i))
+www.youtube.com###dismissible:has(#text:has-text(/Micah Curtis/i))
+www.youtube.com###dismissible:has(#text:has-text(/Zcalyps0/i))
+www.youtube.com###dismissible:has(#text:has-text(/dramaalert/i))
+www.youtube.com###dismissible:has(#text:has-text(/Ultima alta/i))
+www.youtube.com###dismissible:has(#text:has-text(/Vlad Savchuk/i))
+www.youtube.com###dismissible:has(#text:has-text(/8BE/i))
+www.youtube.com###dismissible:has(#text:has-text(/Promotional Zone/i))
+www.youtube.com###dismissible:has(#text:has-text(/Decretin/i))
+www.youtube.com###dismissible:has(#text:has-text(/Smash JT/i))
+www.youtube.com###dismissible:has(#text:has-text(/Stix/i))
+www.youtube.com###dismissible:has(#text:has-text(/China Insider/i))
+www.youtube.com###dismissible:has(#text:has-text(/KhunShawn/i))
+www.youtube.com###dismissible:has(#text:has-text(/superduel/i))
+www.youtube.com###dismissible:has(#text:has-text(/duelhighlight/i))
+www.youtube.com###dismissible:has(#text:has-text(/nerdSlayer Studios/i))
+www.youtube.com###dismissible:has(#text:has-text(/superduel/i))
+www.youtube.com###dismissible:has(#text:has-text(/Salvi the Blue Squirrel Ch/i))
