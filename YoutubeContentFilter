@@ -1,3 +1,6 @@
+www.youtube.com###content-section:has-text(/exbctv/i)
+www.youtube.com###dismissible:has(#text:has-text(/exbctv/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/exbctv/i)
 www.youtube.com###content-section:has-text(/ASMRAnaValens/i)
 www.youtube.com###dismissible:has(#text:has-text(/ASMRAnaValens/i))
 www.youtube.com##[page-subtype="channels"]:has-text(/ASMRAnaValens/i)
