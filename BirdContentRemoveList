@@ -1,4 +1,13 @@
 !Removes all Posts by specific users from appearing (Even when or if block is removed)
+x.com##button[data-testid*='UserCell'] div div a span:has-text(/^@EXBCtv$/i):upward(button[data-testid*='UserCell'])
+x.com##div[data-testid^='cellInnerDiv']:not(:has-text(/Quote/i)) div[data-testid*='User-Name'] div:has-text(/^@EXBCtv$/i):upward(div[data-testid^='cellInnerDiv'])
+x.com##div[data-testid^='cellInnerDiv']:has-text(/Quote/i) div[data-testid*='User-Name'] div:has-text(/^@EXBCtv$/i):upward(div[role^='link'])
+x.com##span[class^='css']:has-text(/^@EXBCtv$/i):upward(div[data-testid^='cellInnerDiv'])
+x.com##span[class^='css']:has-text(/^@EXBCtv$/i):upward(button[data-testid^='TypeaheadUser'])
+x.com##button:has-text(/^go to @EXBCtv$/i):upward([data-testid^='typeaheadResult'])
+x.com##aside span[class^='css']:has-text(/^@EXBCtv$/i):upward(li > div)
+x.com##[data-testid*="primaryColumn"] :has-text(/^EXBCtv$/i):upward([role*="heading"]):upward(div)
+
 x.com##button[data-testid*='UserCell'] div div a span:has-text(/^@acvalens$/i):upward(button[data-testid*='UserCell'])
 x.com##div[data-testid^='cellInnerDiv']:not(:has-text(/Quote/i)) div[data-testid*='User-Name'] div:has-text(/^@acvalens$/i):upward(div[data-testid^='cellInnerDiv'])
 x.com##div[data-testid^='cellInnerDiv']:has-text(/Quote/i) div[data-testid*='User-Name'] div:has-text(/^@acvalens$/i):upward(div[role^='link'])
