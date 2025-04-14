@@ -10,7 +10,7 @@ www.youtube.com###dismissible:has-text(/Reacts/i)
 www.youtube.com###dismissible:has-text(/reaction/i)
 www.youtube.com###dismissible:has-text(/Reactions/i)
 ! Channels
-www.youtube.com###dismissible:has-text(/Izaya's Hub/i)
+www.youtube.com###dismissible:has-text(/Izaya\'s Hub/i)
 www.youtube.com###dismissible:has-text(/compho crypto/i)
 www.youtube.com###dismissible:has-text(/Purple Coin/i)
 www.youtube.com###dismissible:has-text(/Anime Bosco/i)
