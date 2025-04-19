@@ -1,2 +1,2 @@
 #  CuratedContentFilters
-This list is entirely ***bias*** base on what I want to see.
+This list is entirely ***bias*** base on what I want to see on certain platforms.
