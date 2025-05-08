@@ -1,4 +1,6 @@
 ! Channel Removals
+www.youtube.com###content-section:has-text(/betterwayelectronics/i)
+www.youtube.com###dismissible:has(#text:has-text(/betterwayelectronics/i))
 www.youtube.com###content-section:has-text(/exbctv/i)
 www.youtube.com###dismissible:has(#text:has-text(/exbctv/i))
 www.youtube.com##[page-subtype="channels"]:has-text(/exbctv/i)
