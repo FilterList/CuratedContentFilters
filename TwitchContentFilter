@@ -1,4 +1,3 @@
-twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/spicysushi_poe/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/exbc/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/acvalens/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/linustech/i))
