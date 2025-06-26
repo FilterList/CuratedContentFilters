@@ -62,6 +62,7 @@ www.youtube.com##[page-subtype="channels"]:has-text(/TheLazyPeon/i)
 www.youtube.com###content-section:has-text(/asmongold/i)
 www.youtube.com###dismissible:has(#text:has-text(/asmongold/i))
 ! Search Result Removals
+www.youtube.com###dismissible:has(#text:has-text(/Mizore Nakaya/i))
 www.youtube.com###dismissible:has(#text:has-text(/Law Understood Simply/i))
 www.youtube.com###dismissible:has(#text:has-text(/Depressed Nousagi/i))
 www.youtube.com###dismissible:has(#text:has-text(/BeelzFlyLord/i))
