@@ -1,4 +1,10 @@
 ! Channel Removals
+www.youtube.com###content-section:has-text(/collective shout/i)
+www.youtube.com###dismissible:has(#text:has-text(/collective shout/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/collective shout/i)
+www.youtube.com###content-section:has-text(/collectiveshout/i)
+www.youtube.com###dismissible:has(#text:has-text(/collectiveshout/i))
+www.youtube.com##[page-subtype="channels"]:has-text(/collectiveshout/i)
 www.youtube.com###content-section:has-text(/Mizorenakaya/i)
 www.youtube.com###content-section:has-text(/betterwayelectronics/i)
 www.youtube.com###dismissible:has(#text:has-text(/betterwayelectronics/i))
