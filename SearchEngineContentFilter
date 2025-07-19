@@ -61,4 +61,5 @@ google.com##[href*='instagram.com']:has-text('/collective.shout/i'):upward(div):
 google.com##[href*='facebook.com']:has-text('/collective shout/i'):upward(div):upward(div)
 
 ! Removes form 'Videos' section
+google.com##[href*='collective.shout']:upward(div):upward(div):upward(div):upward(div)
 google.com##[href*='collectiveshout']:upward(div):upward(div):upward(div):upward(div)
