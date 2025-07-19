@@ -63,3 +63,8 @@ google.com##[href*='facebook.com']:has-text('/collective shout/i'):upward(div):u
 ! Removes form 'Videos' section
 google.com##[href*='collective.shout']:upward(div):upward(div):upward(div):upward(div)
 google.com##[href*='collectiveshout']:upward(div):upward(div):upward(div):upward(div)
+google.com##[href*='x']:has-text('/collectiveshout/i'):upward(div):upward(div):upward(div):upward(div)
+google.com##[href*='twitter']:has-text('/collectiveshout/i'):upward(div):upward(div):upward(div):upward(div)
+google.com##[href*='instagram']:has-text('/collective.shout/i'):upward(div):upward(div):upward(div):upward(div)
+google.com##[href*='instagram']:has-text('/collective.shout/i'):upward(div):upward(div):upward(div):upward(div)
+google.com##[href*='facebook']:has-text('/collectiveshout/i'):upward(div):upward(div):upward(div):upward(div)
