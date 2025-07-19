@@ -54,3 +54,8 @@ google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='linustechtips']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='em8er']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='em8er']:upward(div):upward(div)
+
+! Removes from google 'Videos' in 'All' Section
+google.com##[data-curl*='youtube.com']:has-text('/collective shout/i')
+google.com##[href*='instagram.com']:has-text('/collective.shout/i'):upward(div):upward(div)
+google.com##[href*='facebook.com']:has-text('/collective shout/i'):upward(div):upward(div)
