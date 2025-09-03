@@ -35,6 +35,15 @@ x.com##button:has-text(/^go to @acvalens$/i):upward([data-testid^='typeaheadResu
 x.com##aside span[class^='css']:has-text(/^@acvalens$/i):upward(li > div)
 x.com##[data-testid*="primaryColumn"] :has-text(/^acvalens$/i):upward([role*="heading"]):upward(div)
 
+x.com##button[data-testid*='UserCell'] div div a span:has-text(/^@acvalensVT$/i):upward(button[data-testid*='UserCell'])
+x.com##div[data-testid^='cellInnerDiv']:not(:has-text(/Quote/i)) div[data-testid*='User-Name'] div:has-text(/^@acvalensVT$/i):upward(div[data-testid^='cellInnerDiv'])
+x.com##div[data-testid^='cellInnerDiv']:has-text(/Quote/i) div[data-testid*='User-Name'] div:has-text(/^@acvalensVT$/i):upward(div[role^='link'])
+x.com##span[class^='css']:has-text(/^@acvalensVT$/i):upward(div[data-testid^='cellInnerDiv'])
+x.com##span[class^='css']:has-text(/^@acvalensVT$/i):upward(button[data-testid^='TypeaheadUser'])
+x.com##button:has-text(/^go to @acvalensVT$/i):upward([data-testid^='typeaheadResult'])
+x.com##aside span[class^='css']:has-text(/^@acvalensVT$/i):upward(li > div)
+x.com##[data-testid*="primaryColumn"] :has-text(/^acvalensVT$/i):upward([role*="heading"]):upward(div)
+
 x.com##button[data-testid*='UserCell'] div div a span:has-text(/^@BrittanyVenti$/i):upward(button[data-testid*='UserCell'])
 x.com##div[data-testid^='cellInnerDiv']:not(:has-text(/Quote/i)) div[data-testid*='User-Name'] div:has-text(/^@BrittanyVenti$/i):upward(div[data-testid^='cellInnerDiv'])
 x.com##div[data-testid^='cellInnerDiv']:has-text(/Quote/i) div[data-testid*='User-Name'] div:has-text(/^@BrittanyVenti$/i):upward(div[role^='link'])
