@@ -1,4 +1,5 @@
 ! Search Result Removals
+www.youtube.com###dismissible:has(#text:has-text(/That Grumpy Old Guy/i))
 www.youtube.com###dismissible:has(#text:has-text(/GVP Gameplays/i))
 www.youtube.com###dismissible:has(#text:has-text(/Twitch Scrubing/i))
 www.youtube.com###dismissible:has(#text:has-text(/More Kazahana/i))
