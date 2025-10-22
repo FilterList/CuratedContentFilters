@@ -13,6 +13,5 @@ twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/stixandmrsstix/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/spicysushi_poe/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizore_nakaya/i))
-
-www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/zachap/i))
-www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizore_nakaya/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/zachap/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizore_nakaya/i))
