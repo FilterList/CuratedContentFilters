@@ -43,3 +43,5 @@ www.youtube.com###dismissible:has(#text:has-text(/Earn With Rinku/i))
 www.youtube.com###dismissible:has(#text:has-text(/Crypto Batman/i))
 www.youtube.com###dismissible:has(#text:has-text(/SONU CRYPTO/i))
 www.youtube.com###dismissible:has(#text:has-text(/Crypto1O1/i))
+
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/HasanAbi/i)
