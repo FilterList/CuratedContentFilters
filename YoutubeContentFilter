@@ -1,4 +1,5 @@
 ! Search Result Removals
+www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
 www.youtube.com###dismissible:has(#text:has-text(/Calnomix/i))
 www.youtube.com###dismissible:has(#text:has-text(/That Grumpy Old Guy/i))
 www.youtube.com###dismissible:has(#text:has-text(/GVP Gameplays/i))
