@@ -1,4 +1,9 @@
 ! Search Result Removals
+www.youtube.com###dismissible:has(#text:has-text(/DSP Tries It/i))
+www.youtube.com###dismissible:has(#text:has-text(/Robust Urban Garlic/i))
+www.youtube.com###dismissible:has(#text:has-text(/Almighty Tevin/i))
+www.youtube.com###dismissible:has(#text:has-text(/Doody Streams/i))
+www.youtube.com###dismissible:has(#text:has-text(/Raw Phil/i))
 www.youtube.com###dismissible:has(#text:has-text(/Hasanverse/i))
 www.youtube.com###dismissible:has(#text:has-text(/HasanAbi/i))
 www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
