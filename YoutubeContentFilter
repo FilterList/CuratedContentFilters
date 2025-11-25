@@ -1,4 +1,5 @@
 ! Search Result Removals
+www.youtube.com##ytd-channel-renderer:has-text(@DSPTriesItMemology101)
 www.youtube.com###dismissible:has(#text:has-text(/DSP Tries It/i))
 www.youtube.com###dismissible:has(#text:has-text(/Robust Urban Garlic/i))
 www.youtube.com###dismissible:has(#text:has-text(/Almighty Tevin/i))
