@@ -1,4 +1,5 @@
 ! Search Result Removals
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/HasanAbi/i)
 www.youtube.com##ytd-channel-renderer:has-text(@DSPTriesItMemology101)
 www.youtube.com###dismissible:has(#text:has-text(/DSP Tries It/i))
 www.youtube.com###dismissible:has(#text:has-text(/Robust Urban Garlic/i))
@@ -49,5 +50,3 @@ www.youtube.com###dismissible:has(#text:has-text(/Earn With Rinku/i))
 www.youtube.com###dismissible:has(#text:has-text(/Crypto Batman/i))
 www.youtube.com###dismissible:has(#text:has-text(/SONU CRYPTO/i))
 www.youtube.com###dismissible:has(#text:has-text(/Crypto1O1/i))
-
-www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/HasanAbi/i)
