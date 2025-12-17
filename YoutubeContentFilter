@@ -1,4 +1,7 @@
 ! Search Result Removals
+www.youtube.com##ytd-channel-renderer:has-text(@nyaraVT)
+www.youtube.com###dismissible:has(#text:has-text(/nyaraVT/i))
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/nyaraVT/i)
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/HasanAbi/i)
 www.youtube.com##ytd-channel-renderer:has-text(@DSPTriesItMemology101)
 www.youtube.com###dismissible:has(#text:has-text(/DSP Tries It/i))
@@ -39,7 +42,6 @@ www.youtube.com###dismissible:has(#text:has-text(/duelhighlight/i))
 www.youtube.com###dismissible:has(#text:has-text(/nerdSlayer Studios/i))
 www.youtube.com###dismissible:has(#text:has-text(/superduel/i))
 www.youtube.com###dismissible:has(#text:has-text(/Salvi the Blue Squirrel Ch/i))
-! Coin Channels
 www.youtube.com###dismissible:has(#text:has-text(/مستر ایردراپ؛ 1 قدم تا چندهزار دلار درآمد ایردراپی/i))
 www.youtube.com###dismissible:has(#text:has-text(/오늘의 꿀통/i))
 www.youtube.com###dismissible:has(#text:has-text(/Crypto Airdrops Telugu/i))
