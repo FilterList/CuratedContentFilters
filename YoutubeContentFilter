@@ -1,4 +1,5 @@
 ! Search Result Removals
+www.youtube.com###dismissible:has(#text:has-text(/MMOByte/i))
 www.youtube.com##ytd-channel-renderer:has-text(@MartinJohnsonOffGridLiving)
 www.youtube.com###dismissible:has(#text:has-text(/MartinJohnsonOffGridLiving/i))
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/MartinJohnsonOffGridLiving/i)
