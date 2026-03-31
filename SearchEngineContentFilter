@@ -1,4 +1,8 @@
 ! Removes from google 'All' searches
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/@HasanAbi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/HasanAbi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##[role="heading"]:has-text(/HasanAbi/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##[role="heading"]:has-text(/Hasan Abi/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/@AsmonTV']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/Asmongold']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##[role="heading"]:has-text(/asmongold/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
