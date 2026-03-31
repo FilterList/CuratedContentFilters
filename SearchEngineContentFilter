@@ -1,4 +1,5 @@
 ! Removes from google 'All' searches
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/asmongold']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collective-shout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collectiveshout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collective.shout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
@@ -34,6 +35,7 @@ google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-as
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='emberthegame']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 
 ! Removes from google 'Images' searches
+google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='asmongold']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='collective-shout']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='collectiveshout']:upward(div):upward(div)
 google.com##div[selected=""]:has-text(/images/i):upward(div[id="main"])  a[href*='collective.shout']:upward(div):upward(div)
