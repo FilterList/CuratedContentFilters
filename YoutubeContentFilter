@@ -1,4 +1,8 @@
 ! Search Result Removals
+www.youtube.com##ytd-channel-renderer:has-text(@AndroidAddicts)
+www.youtube.com###dismissible:has(#text:has-text(/Android Addicts/i))
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/AndroidAddicts/i)
+www.youtube.com##ytd-browse.ytd-page-manager.style-scope:has-text(/@AndroidAddicts/i)
 www.youtube.com##ytd-channel-renderer:has-text(@AsmonTV)
 www.youtube.com###dismissible:has(#text:has-text(/AsmonTV/i))
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/AsmonTV/i)
