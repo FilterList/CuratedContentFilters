@@ -1,41 +1,59 @@
 ! Removes from google 'All' searches
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/HasanAbi/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/@HasanAbi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/HasanAbi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##[role="heading"]:has-text(/HasanAbi/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##[role="heading"]:has-text(/Hasan Abi/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/asmongold/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/@AsmonTV']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/Asmongold']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##[role="heading"]:has-text(/asmongold/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/collective-shout/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collective-shout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collective-shout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collectiveshout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/collective.shout']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/mizorenakaya/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/mizore_nakaya']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/Mizorenakaya']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Mizokaya.carrd.co']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='mizokaya.stream']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/bwe_dev']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='betterwayelectronics']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='betterwayelectronics.com']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='exbctv']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='acvalens']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='fextralife']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='MMOByte']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='mmobyte']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='StixAndMrsStix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='stixandmrsstix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='UCLGRZ0xSaBMIUmtn8wkPP3w']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='UCLGRZ0xSaBMIUmtn8wkPP3w']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/BrittanyVenti/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Brittany_Venti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='brittanyventi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/BrittanyXVenti/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='BrittanyXVenti']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='brittanyxventi']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='saturday_supermodel']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/linustechtips/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='linustechtips']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='LinusTechTips']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='lttstore']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='linusmediagroup']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/em8er/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) a[href*='em8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='em8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='Em_8er']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
