@@ -37,3 +37,6 @@ twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/ahpolo/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/dmitry_bale/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/voll/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/whiskeyding0/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/corgicam/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/fourleafisland/i))
