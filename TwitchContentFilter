@@ -1,4 +1,7 @@
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/smilkyshake/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/nyaraVT/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/HasanAbi/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/tygre/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/funbird_12/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/kirsche/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/powdur/i))
