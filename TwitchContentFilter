@@ -35,3 +35,5 @@ twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/dooriru/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/cyplexval/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/ahpolo/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/dmitry_bale/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/voll/i))
