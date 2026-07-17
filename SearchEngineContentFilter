@@ -50,6 +50,14 @@ google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-as
 google.com##div[selected=""]:has-text(/videos/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/mmobyte/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='MMOByte']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='mmobyte']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a:has-text(/mmobyte/i):upward(div)
+
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/lazypeon/i):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/videos/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/lazypeon/i):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='lazypeon']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='lazypeon']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a:has-text(/lazypeon/i):upward(div)
+
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='StixAndMrsStix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='stixandmrsstix']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 
