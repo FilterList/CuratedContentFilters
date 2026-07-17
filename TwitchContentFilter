@@ -20,3 +20,4 @@ twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizore_nakaya/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/zachap/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizore_nakaya/i))
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/rglqq/i))
