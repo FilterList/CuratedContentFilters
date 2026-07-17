@@ -11,6 +11,7 @@ google.com##div[selected=""]:has-text(/videos/i):upward(div[id="main"]) div[data
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/@AsmonTV']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='\/Asmongold']:upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
 google.com##[role="heading"]:has-text(/asmongold/i):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div):upward(div)
+google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] a[href*='asmongold']:upward(div):upward(div):upward(div):upward(div):upward(div)
 
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/collective shout/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/videos/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/collective shout/i):upward(div):upward(div):upward(div):upward(div)
