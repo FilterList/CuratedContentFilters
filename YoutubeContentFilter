@@ -1,3 +1,5 @@
+! Title: CuratedContentFilters/YoutubeContentFilter
+! Expires: 12 hours
 ! Search Result Removals
 youtube.com##ytd-channel-renderer:has-text(/@(AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/)
 youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has-text(/(AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i)
