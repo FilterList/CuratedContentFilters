@@ -1,3 +1,5 @@
+! Title: CuratedContentFilters/SearchEngineContentFilter
+! Expires: 12 hours
 ! Removes from google 'All' searches
 google.com##div[selected=""]:has-text(/all/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/HasanAbi/i):upward(div):upward(div):upward(div):upward(div)
 google.com##div[selected=""]:has-text(/videos/i):upward(div[id="main"]) div[data-async-context^="query"] span:has-text(/HasanAbi/i):upward(div):upward(div):upward(div):upward(div)
