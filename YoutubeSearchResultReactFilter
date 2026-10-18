@@ -1,3 +1,5 @@
+! Title: CuratedContentFilters/YoutubeSearchResultReactFilter
+! Expires: 12 hours
 ! Same as Search filter but for react content
 ! Playlists
 www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/React/i)))
