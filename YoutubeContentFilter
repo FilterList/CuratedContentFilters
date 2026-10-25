@@ -1,4 +1,4 @@
-! Title: CuratedContentFilters/YoutubeContentFilter
+! Title: CCF/YoutubeContentFilter
 ! Expires: 12 hours
 ! Search Result Removals
 youtube.com##ytd-channel-renderer:has-text(/@(TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/)
