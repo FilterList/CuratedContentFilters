@@ -1,4 +1,4 @@
-! Title: CuratedContentFilters/BirdContentRemoveList
+! Title: CCF/BirdContentRemoveList
 ! Expires: 12 hours
 ! Removes all Posts by specific users from appearing (Even when or if block is removed)
 x.com##button[data-testid*='UserCell'] div div a span:has-text(/^@(TheBurntPeanut|realDonaldTrump|powdury|Asmongold|ByteStix|HasanAbi|CollectiveShout|BwE_Dev|EXBCtv|acvalens|acvalensVT|BrittanyVenti|MMOByte|LinusTech|linusgsebastian|elonmusk|Grummz)$/i):upward(button[data-testid*='UserCell'])
