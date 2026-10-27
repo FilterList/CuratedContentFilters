@@ -1,1 +1,6 @@
-
+! Title: CCF/YoutubeSearchResultFilters
+! Expires: 12 hours
+! Description: Removes results for low effort videos, including AI voice overs
+youtube.com##ytd-grid-channel-renderer a[id="channel-info"]:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow)/i"):upward(ytd-grid-channel-renderer)
+youtube.com###dismissible [id="channel-info"] a:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow|linustechtips|budsshow)/i"):upward(#dismissible)
+youtube.com##ytd-channel-renderer a[id="main-link"]:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow)/i"):upward(ytd-channel-renderer)
