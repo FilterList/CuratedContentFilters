@@ -11,5 +11,8 @@ https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/ma
 https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/YoutubeContentFilter
 ```
 ```
+https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/YoutubeSearchResultFilters
+```
+```
 https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/YoutubeSearchResultReactFilter
 ```
