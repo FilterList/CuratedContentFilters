@@ -1,6 +1,6 @@
 ! Title: CCF/YoutubeContentFilter
 ! Expires: 12 hours
 ! Search Result Removals
-youtube.com##ytd-grid-channel-renderer a[id="channel-info"]:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow|linustechtips|budsshow|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(ytd-grid-channel-renderer)
-youtube.com###dismissible [id="channel-info"] a:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow|linustechtips|budsshow|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(#dismissible)
-youtube.com##ytd-channel-renderer a[id="main-link"]:matches-attr(href="/@(tech-gadgets123|vcrtechworld|budsshow|linustechtips|budsshow|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(ytd-channel-renderer)
+youtube.com##ytd-grid-channel-renderer a[id="channel-info"]:matches-attr(href="/@(linustechtips|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(ytd-grid-channel-renderer)
+youtube.com###dismissible [id="channel-info"] a:matches-attr(href="/@(linustechtips|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(#dismissible)
+youtube.com##ytd-channel-renderer a[id="main-link"]:matches-attr(href="/@(linustechtips|TheBurntPeanut|AndroidAddicts|AsmonTV|asmongoldtv|asmongoldclips|asmontv|HasanAbi|MMOByte|MartinJohnsonOffGridLiving|nyaraVT|DSPTriesItMemology101)/i"):upward(ytd-channel-renderer)
