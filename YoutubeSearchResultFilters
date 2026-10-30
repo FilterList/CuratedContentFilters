@@ -1,6 +1,6 @@
 ! Title: CCF/YoutubeSearchResultFilters
 ! Expires: 12 hours
 ! Description: Removes results for low effort videos, including AI voice overs or just stolen content
-youtube.com##ytd-grid-channel-renderer a[id="channel-info"]:matches-attr(href="/@(9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow)/i"):upward(ytd-grid-channel-renderer)
-youtube.com###dismissible [id="channel-info"] a:matches-attr(href="/@(9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow|linustechtips|budsshow)/i"):upward(#dismissible)
-youtube.com##ytd-channel-renderer a[id="main-link"]:matches-attr(href="/@(9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow)/i"):upward(ytd-channel-renderer)
+youtube.com##ytd-grid-channel-renderer a[id="channel-info"]:matches-attr(href="/@(howtothomasyt|9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow)/i"):upward(ytd-grid-channel-renderer)
+youtube.com###dismissible [id="channel-info"] a:matches-attr(href="/@(howtothomasyt|9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow|linustechtips|budsshow)/i"):upward(#dismissible)
+youtube.com##ytd-channel-renderer a[id="main-link"]:matches-attr(href="/@(howtothomasyt|9ktech|WorthBuying5|earbux|tech-gadgets123|vcrtechworld|budshow)/i"):upward(ytd-channel-renderer)
