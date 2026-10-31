@@ -5,7 +5,7 @@ This list is entirely ***bias*** base on what I want to see on certain platforms
 https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/BirdContentRemoveList
 ```
 ```
-https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/BirdIdiotFilter
+https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/BirdUneducatedAndDaftFilter
 ```
 ```
 https://raw.githubusercontent.com/FilterList/CuratedContentFilters/refs/heads/main/SearchEngineContentFilter
