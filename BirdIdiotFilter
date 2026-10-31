@@ -1,3 +1,3 @@
 ! Title: CCF/BirdIdiotFilter
 ! Expires: 12 hours
-x.com##article > div a:matches-attr(href="/(WolfenBurd|ViceLitty|wralith|zonakgonak|JohnBiggervyw3|angelanon360|ArturoWolff4|BakaSortof)/i"):upward(article):upward(div):upward(div):upward(div)
+x.com##article > div a:matches-attr(href="/(Mis_Ashford|onekiru|WolfenBurd|ViceLitty|wralith|zonakgonak|JohnBiggervyw3|angelanon360|ArturoWolff4|BakaSortof)/i"):upward(article):upward(div):upward(div):upward(div)
