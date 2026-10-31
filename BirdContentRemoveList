@@ -1,3 +1,3 @@
 ! Title: CCF/BirdContentRemoveList
 ! Expires: 12 hours
-x.com##article > div a:matches-attr(href="/(BakaSortof|TheBurntPeanut|realDonaldTrump|powdury|Asmongold|ByteStix|HasanAbi|CollectiveShout|BwE_Dev|EXBCtv|acvalens|acvalensVT|BrittanyVenti|MMOByte|LinusTech|linusgsebastian|elonmusk|Grummz)/i"):upward(article):upward(div):upward(div):upward(div)
+x.com##article > div a:matches-attr(href="/(ArturoWolff4|BakaSortof|TheBurntPeanut|realDonaldTrump|powdury|Asmongold|ByteStix|HasanAbi|CollectiveShout|BwE_Dev|EXBCtv|acvalens|acvalensVT|BrittanyVenti|MMOByte|LinusTech|linusgsebastian|elonmusk|Grummz)/i"):upward(article):upward(div):upward(div):upward(div)
